@@ -1,5 +1,15 @@
 # Flappy-Bird
-A Browser Game I made as a personal project and also uploaded its tutorial on my youTube channel
+Flappy Bird Game built using JavaScript
+
+It makes use of concepts like infinite scrolling of game objects and background.
+
+The player controls a small bird that constantly moves forward in a horizontal direction. The game environment consists of pipes arranged vertically with gaps in between. The pipes appear at regular intervals, and the bird must pass through the gaps to score points. If the bird touches the pipes or the ground, the game ends.
+
+### Demo Instructions:
+The game is not responsive. Adjust the browser screen size so that SCORE is displayed in the middle of the screen.    
+Press 'Spacebar' to start the game and to jump...    
+
+Demo URL: https://m-adil-as.github.io/Flappy-Bird
 
 Demo Video: 
 
